@@ -1,0 +1,3142 @@
+return {
+	["Activator_DItems_shieldSelf"] = {
+	},
+	["Evadeee_spells_Stranglethorns KnockUp"] = {
+	},
+	["sidasacmain_sidasacfarming_sidasacsubmasteries"] = {
+	},
+	["katarina_fun_house_r2_Farming_laneclear"] = {
+	},
+	["SpellManager19052015Draven_E_E"] = {
+	},
+	["TotallyLeBlanc.cfg_tsmodes"] = {
+	},
+	["Evadeee_spells_VeigarQ"] = {
+	},
+	["Draven_CSet"] = {
+	},
+	["Draven"] = {
+	},
+	["Evadeee_spells_SonicWave"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 3,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["DJ Lee SeaniCreative1.10_Draw_E"] = {
+	},
+	["Zopper_gap"] = {
+	},
+	["NidaleeGod_Main_AutoLevel"] = {
+	},
+	["VPrediction3_Collision"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["Others"] = true,
+		["CastPos"] = true,
+		["PredictPos"] = true,
+		["Minions"] = true,
+		["Mobs"] = true,
+		["UnitPos"] = true,
+		["Buffer"] = 20,
+	},
+	["Activator_ShowGame_ShowDefensive"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["ZWSpecial"] = true,
+		["useDebuffEnemy"] = true,
+		["useWoogletsWitchcap"] = true,
+		["useSupportItems"] = true,
+		["useShieldItems"] = true,
+		["useItemCleanse"] = true,
+		["useBanner"] = true,
+		["useZhonyas"] = true,
+		["useAllyCleanse"] = true,
+		["ZWLifeSaver"] = true,
+	},
+	["Evadeee_dodgeAbilities_wardJumpsE - Shunpo [Ward Jump]"] = {
+	},
+	["Evadeee_spells_ZiggsQ"] = {
+	},
+	["JinxLOL_Orbwalking_General"] = {
+	},
+	["Aimbot2Nidalee"] = {
+		["off"] = false,
+		["_tsInstances"] = {
+		},
+		["tog"] = true,
+		["_param"] = {
+			[2] = {
+				["key"] = 84,
+			},
+			[3] = {
+				["key"] = 32,
+			},
+		},
+		["isstream"] = true,
+	},
+	["Evadeee_advanced_spellTypes"] = {
+	},
+	["sidasacmain_sidasacexperimental"] = {
+	},
+	["Evadeee_spells_RiteOfTheArcane"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 3,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["OrbwalkManager20052015Heimerdinger_Orbwalker_Keys_Toggle"] = {
+	},
+	["Evadeee_spells_Rattatattat"] = {
+	},
+	["BallsOfFury_Farm"] = {
+	},
+	["Activator_debugModeSetting_cleanseDebug"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["fontSizeDebugModeCleanse"] = 18,
+		["debugModeCleanse"] = false,
+		["yPosDebugModeCleanse"] = 400,
+		["xPosDebugModeCleanse"] = 1100,
+	},
+	["Activator_ShowGame_autoSpells"] = {
+	},
+	["NidaleeGod_Main_Drawing"] = {
+		["_param"] = {
+		},
+		["AA"] = true,
+		["CooldownsColor"] = 1,
+		["Disabled"] = true,
+		["Width"] = 1,
+		["Quality"] = 75,
+		["PermaShow"] = true,
+		["_tsInstances"] = {
+		},
+		["Cooldowns"] = true,
+		["PermaShowColor"] = 9,
+		["LowFPS"] = true,
+		["AAColor"] = 1,
+	},
+	["Evadeee_buffs_Master Yi W"] = {
+	},
+	["TotallyLeBlanc.cfg_orbwalker_Keys"] = {
+	},
+	["baseUlt_BaseSet"] = {
+		["PanicKey"] = false,
+		["_tsInstances"] = {
+		},
+		["Collision"] = false,
+		["_param"] = {
+			[1] = {
+				["key"] = 32,
+			},
+		},
+	},
+	["Evadeee_spells_EventHorizon"] = {
+	},
+	["NLHReloaded_sidehud"] = {
+	},
+	["TKLux_comboConfig"] = {
+	},
+	["TotallyLeBlanc.cfg_orbwalker_Draw"] = {
+	},
+	["Evadeee_spells_OverloadUlt"] = {
+	},
+	["Evadeee_spells_ZenithBlade"] = {
+	},
+	["Evadeee_spells_FizzUltimate"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 5,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["DJ Lee SeaniCreative27052015_LaneClear"] = {
+	},
+	["DJ Lee SeaniCreative27052015_TS"] = {
+	},
+	["TKEkko_harrConfig"] = {
+	},
+	["Evadeee_spells_StandAside"] = {
+	},
+	["Jinx_SxOrb_Farm"] = {
+	},
+	["Lux_comboConfig"] = {
+	},
+	["TKLux_oConfig_Keys"] = {
+	},
+	["Evadeee_spells_CausticSpittle"] = {
+	},
+	["NidaleeGod_Main_LaneClear"] = {
+		["_param"] = {
+			[1] = {
+				["key"] = 67,
+			},
+		},
+		["_tsInstances"] = {
+		},
+		["UseR"] = true,
+		["UseE"] = true,
+		["UseQ"] = true,
+		["Active"] = false,
+		["UseW"] = true,
+	},
+	["NidaleeGod_Main_OrbWalker_Keys"] = {
+	},
+	["TotallyLeBlanc.cfg_orbwalker_Keys_Toggle"] = {
+	},
+	["Evadeee_spells_InfectedCleaver"] = {
+	},
+	["Zopper_key"] = {
+	},
+	["SpellManager19052015LeeSin_Q"] = {
+	},
+	["sidasacmain_sidasacskills_EStandAside"] = {
+	},
+	["Evadeee_dodgeAbilities_shieldsW - Meditate"] = {
+	},
+	["Evadeee_spells_LucianR2"] = {
+	},
+	["Evadeee_spells_TurretEnergyBlast"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 1,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["OrbwalkManager20052015Draven_Orbwalker_Keys_Toggle"] = {
+	},
+	["Draven Me Crazy1.000_Axe_CatchRadius"] = {
+	},
+	["Heisendinger28042015_Combo"] = {
+	},
+	["OrbwalkManager20052015Draven_Orbwalker_Keys"] = {
+	},
+	["Evadeee_spells_Starcall"] = {
+	},
+	["sidasacmain_sidasacsetup_sidasaclaneclearsub"] = {
+		["_param"] = {
+		},
+		["Attacks"] = true,
+		["AttackWards"] = true,
+		["_tsInstances"] = {
+		},
+		["Toggle"] = true,
+		["Movement"] = true,
+		["AttackEnemies"] = true,
+		["MinionPriority"] = true,
+	},
+	["Activator_ShowGame_ShowSmite"] = {
+		["LifeSaving"] = true,
+		["_tsInstances"] = {
+		},
+		["useSmite"] = true,
+		["smiteSmall"] = true,
+		["_param"] = {
+		},
+		["smiteEpic"] = true,
+		["smiteLarge"] = true,
+		["ChampSmite"] = true,
+	},
+	["EkkoLOL3_Orbwalking_General"] = {
+	},
+	["sidasacmain_sidasacsetup_sidasacmixedmodesub"] = {
+		["_param"] = {
+		},
+		["Attacks"] = true,
+		["Toggle"] = true,
+		["Movement"] = true,
+		["_tsInstances"] = {
+		},
+		["MinionPriority"] = true,
+	},
+	["Activator_TowerDamage"] = {
+		["_param"] = {
+		},
+		["useTower"] = false,
+		["_tsInstances"] = {
+		},
+	},
+	["Zopper_spell_LuxLightStrikeKugel"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["enemiesHarass"] = 1,
+		["harass"] = false,
+		["enemiesCombo"] = 1,
+		["range"] = 1100,
+		["combo"] = true,
+	},
+	["Evadeee_traps_NidaleeTeemo"] = {
+	},
+	["NidaleeGod_Main_AutoHeal"] = {
+	},
+	["NidaleeGod_Main_Killstealing_Human"] = {
+	},
+	["DJ Lee SeaniCreative1.10_LaneClear"] = {
+	},
+	["Evadeee_dodgeAbilities_jumpsR - Mimic: Distortion [2/2]"] = {
+	},
+	["Evadeee_advanced_anchor"] = {
+	},
+	["sidasacmain_sidasacsubstream"] = {
+	},
+	["Aimbot1Syndra"] = {
+		["off"] = false,
+		["_tsInstances"] = {
+		},
+		["tog"] = true,
+		["_param"] = {
+			[2] = {
+				["key"] = 84,
+			},
+			[3] = {
+				["key"] = 32,
+			},
+		},
+		["isstream"] = true,
+	},
+	["Aimbot1Heimerdinger_misc"] = {
+		["_param"] = {
+		},
+		["ser"] = 1,
+		["pred"] = 1,
+		["_tsInstances"] = {
+		},
+		["pc"] = true,
+	},
+	["OrbwalkManager20052015Draven_Orbwalker"] = {
+	},
+	["Evadeee_spells_Equinox"] = {
+	},
+	["TotallyLeBlanc.cfg_combo"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["comboWay"] = 1,
+		["comboGap"] = true,
+		["selectedTarget"] = true,
+		["comboItems"] = true,
+		["comboAA"] = true,
+		["forceADC"] = true,
+	},
+	["Evadeee_dodgeAbilities_untargetablesQ - Alpha Strike"] = {
+	},
+	["TotallyLeBlanc.cfg_settingsW"] = {
+	},
+	["Aimbot1Nidalee_skConfig"] = {
+	},
+	["Draven Me Crazy1.000_JungleClear"] = {
+	},
+	["Private: Big Fat Jinx_DR"] = {
+		["DRee"] = true,
+		["_tsInstances"] = {
+		},
+		["DRaa"] = true,
+		["DRpk"] = true,
+		["DRww"] = true,
+		["_param"] = {
+		},
+		["DRam"] = 2,
+	},
+	["Evadeee_spells_ThreshQ"] = {
+	},
+	["Evadeee_spells_VarusE"] = {
+	},
+	["EkkoLOL3_ultdef_VeigarPrimordialBurst"] = {
+	},
+	["SxOrb_Draw"] = {
+	},
+	["Lux_drawConfig"] = {
+	},
+	["sidasacmain_sidasacsubhumanizer"] = {
+	},
+	["BallsOfFury_targetPriority"] = {
+		["setPriorityNidalee"] = 2,
+		["_tsInstances"] = {
+		},
+		["useTargetPriority"] = true,
+		["setPriorityRiven"] = 3,
+		["setPriorityLeblanc"] = 2,
+		["setPriorityTwitch"] = 1,
+		["setPriorityKogMaw"] = 1,
+		["setPriorityXerath"] = 2,
+		["_param"] = {
+		},
+	},
+	["Evadeee_spells_GravesChargeShot"] = {
+	},
+	["DJ Lee SeaniCreative27052015_Combo"] = {
+		["StarMode"] = 1,
+		["_tsInstances"] = {
+		},
+		["useW"] = true,
+		["useItems"] = true,
+		["useQ"] = true,
+		["useR"] = true,
+		["useWard"] = true,
+		["useE"] = true,
+		["_param"] = {
+		},
+		["Mode"] = 1,
+		["useStack"] = 1,
+	},
+	["NeoBaseUlt_settings"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["Jinxusedelay"] = false,
+		["Jinxdelay"] = -3,
+		["Jinxnewmultiplier"] = 1,
+	},
+	["EkkoLOL3_ultdef_HecarimR"] = {
+	},
+	["BallsOfFury_Items_ADItems"] = {
+	},
+	["DJ Lee SeaniCreative27052015_Draw_Q"] = {
+	},
+	["OrbwalkManager20052015Heimerdinger"] = {
+	},
+	["Evadeee_spells_JayceShockBlastCharged"] = {
+	},
+	["sidasacmain_sidasacitems_sidasacautocarryitemssub"] = {
+	},
+	["Evadeee_dodgeAbilities_wardJumpsW - Safeguard [Ward Jump]"] = {
+	},
+	["TotallyLeBlanc.cfg_drawings_lfc"] = {
+	},
+	["EkkoLOL3_Spell_W"] = {
+	},
+	["Lux_jsConfig"] = {
+	},
+	["sidasacmain_sidasacdrawing_sidasaccirclessub"] = {
+	},
+	["Activator_ShowGame_ShowIgnite"] = {
+	},
+	["VPrediction_Collision"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["Others"] = true,
+		["CHealth"] = true,
+		["CastPos"] = true,
+		["PredictPos"] = true,
+		["Minions"] = true,
+		["Mobs"] = true,
+		["UnitPos"] = true,
+		["Buffer"] = 20,
+	},
+	["Zopper_humanizer"] = {
+	},
+	["Evadeee_humanizer"] = {
+	},
+	["Activator_Items_APItems"] = {
+	},
+	["Evadeee_spells_TurretEnergyBigBlast"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 2,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["DJ Lee SeaniCreative1.10_Orbwalking_Keys_Toggle"] = {
+	},
+	["Big Fat Orbwalker_OrbIT"] = {
+	},
+	["Evadeee_spells_ZiggsE"] = {
+	},
+	["Heisendinger28042015_KillSteal"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["useW"] = true,
+		["useE"] = true,
+		["useQ"] = true,
+		["useRQ"] = true,
+		["useRW"] = true,
+		["useRE"] = true,
+		["useIgnite"] = true,
+	},
+	["Evadeee_spells_VarusQMissile"] = {
+	},
+	["NLHReloaded_hotkey"] = {
+	},
+	["Evadeee_spells_Volley"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 1,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["Aimbot2Jinx_misc"] = {
+	},
+	["EkkoLOL3_ultdef_RenektonE"] = {
+	},
+	["EkkoLOL3_drawing"] = {
+		["_param"] = {
+		},
+		["eDraw"] = true,
+		["wDraw"] = true,
+		["rLine"] = true,
+		["aaDraw"] = true,
+		["mDraw"] = false,
+		["hitDraw"] = true,
+		["Target"] = true,
+		["qDraw"] = true,
+		["rDraw"] = true,
+		["_tsInstances"] = {
+		},
+	},
+	["Zopper_asi"] = {
+	},
+	["sidasacmain_sidasacfarming_sidasacpredictionfarm"] = {
+	},
+	["JinxLOL_spells_r"] = {
+	},
+	["Evadeee_traps_CaitlynJinx"] = {
+	},
+	["Activator_DItems_SORBAllyShieldConfig"] = {
+	},
+	["TotallyLeBlanc.cfg_misc_autolevel"] = {
+		["sequence"] = 2,
+		["_tsInstances"] = {
+		},
+		["_param"] = {
+		},
+		["useAutoLevel"] = true,
+	},
+	["BIG FAT HEV - MARK IV_RH"] = {
+		["RHy"] = 422,
+		["RHx"] = 1196,
+		["RHmode"] = 1,
+		["_tsInstances"] = {
+		},
+		["RHen"] = true,
+		["_param"] = {
+		},
+	},
+	["Jinx_HSet_WSet"] = {
+	},
+	["JinxLOL_combo"] = {
+		["comboUlt"] = true,
+		["_tsInstances"] = {
+		},
+		["W"] = true,
+		["comboItems"] = true,
+		["bush"] = true,
+		["wMana"] = 30,
+		["ItemTar"] = 75,
+		["ItemMe"] = 75,
+		["comboQSS"] = true,
+		["_param"] = {
+		},
+		["qMana"] = 8,
+	},
+	["Evadeee_buffs_Banshee's Veil"] = {
+	},
+	["TKEkko_casual"] = {
+	},
+	["Draven Me Crazy1.000_KillSteal"] = {
+	},
+	["Zopper_ash"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["teammatesheal6"] = true,
+		["teammatesheal7"] = true,
+		["teammatesheal8"] = true,
+		["teammatesheal10"] = true,
+		["skillshots"] = true,
+		["teammatesheal9"] = true,
+		["mindmgpercent"] = 95,
+		["maxhppercent"] = 100,
+	},
+	["katarina_fun_house_r2_Drawings_drawcombat"] = {
+	},
+	["TKEkko_misc"] = {
+	},
+	["NLHReloaded_waypoints"] = {
+	},
+	["Jinx_DSet"] = {
+	},
+	["sidasacmain_sidasacitems_sidasaclaneclearitemssub"] = {
+	},
+	["Draven Me Crazy1.000_Axe_Draw"] = {
+	},
+	["Big Fat Orbwalker_OrbKB"] = {
+	},
+	["Aimbot1Syndra_misc"] = {
+		["_param"] = {
+		},
+		["ser"] = 1,
+		["pred"] = 1,
+		["_tsInstances"] = {
+		},
+		["pc"] = true,
+	},
+	["JinxLOL"] = {
+		["_param"] = {
+		},
+		["instruct"] = true,
+		["_tsInstances"] = {
+		},
+	},
+	["Evadeee_dodgeAbilities_itemyoumuu"] = {
+	},
+	["Jinx_SxOrb"] = {
+	},
+	["Lux_harrasConfig"] = {
+	},
+	["JinxLOL_spells_q"] = {
+		["switch"] = 1,
+		["_tsInstances"] = {
+		},
+		["swap"] = 1,
+		["_param"] = {
+		},
+		["method"] = true,
+	},
+	["NidaleeGod_Main_OrbWalker"] = {
+	},
+	["katarina_fun_house_r2_Drawings_drawrange"] = {
+	},
+	["TKLux_casual_zhg"] = {
+	},
+	["Evadeee_spells_PillarOfFlame"] = {
+	},
+	["EkkoLOL3_ultdef_LeeSinQ"] = {
+		["LeeSinQhealth"] = 15,
+		["_tsInstances"] = {
+		},
+		["LeeSinQ"] = true,
+		["_param"] = {
+		},
+	},
+	["DJ Lee SeaniCreative27052015_Misc"] = {
+	},
+	["TotallyLeBlanc.cfg_misc_zhonyas"] = {
+	},
+	["Evadeee_humanizer_delays"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["serverTickBuffer991"] = 30,
+		["dodgeDelay"] = 0,
+		["dodgeDelayInputOverride"] = true,
+	},
+	["BIG FAT HEV - MARK IV_CD"] = {
+	},
+	["Evadeee_spells_UFSlash"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 5,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["Zopper_snare"] = {
+		["_param"] = {
+		},
+		["Yasuo"] = true,
+		["Riven"] = true,
+		["LuxLightBinding"] = true,
+		["XinZhao"] = true,
+		["Ezreal"] = true,
+		["Nidalee"] = true,
+		["distance"] = 850,
+		["_tsInstances"] = {
+		},
+		["LuxLightStrikeKugel"] = false,
+	},
+	["Evadeee_spells_ZiggsW"] = {
+	},
+	["DJ Lee SeaniCreative1.10_Draw_W"] = {
+	},
+	["Lux_Orbwalking"] = {
+	},
+	["Lux_comboConfig_rConfig"] = {
+	},
+	["JinxLOL_spells_w"] = {
+	},
+	["TKEkko_kConfig"] = {
+	},
+	["OrbwalkManager20052015Heimerdinger_Orbwalker_Keys"] = {
+	},
+	["JinxLOL_recall"] = {
+	},
+	["Activator_DItems_debuffEnemy"] = {
+	},
+	["Aimbot2Yasuo"] = {
+	},
+	["BallsOfFury_SummonerSpells"] = {
+	},
+	["NidaleeGod_Main_Killstealing_Cougar"] = {
+	},
+	["Evadeee_dodgeAbilities_shieldsW - Prismatic Barrier"] = {
+	},
+	["Aimbot1LeeSin_skConfig"] = {
+	},
+	["EkkoLOL3_Orbwalking_Farm"] = {
+	},
+	["Activator_DItems_SORBAlly"] = {
+	},
+	["katarina_fun_house_r2_General_keybinder"] = {
+	},
+	["OrbwalkManager20052015Heimerdinger_Orbwalker_Mastery"] = {
+	},
+	["Rengar"] = {
+		["_param"] = {
+			[6] = {
+				["key"] = 67,
+			},
+			[5] = {
+				["key"] = 32,
+			},
+			[7] = {
+				["key"] = 86,
+			},
+			[8] = {
+				["key"] = 88,
+			},
+		},
+		["_tsInstances"] = {
+		},
+		["comboKey"] = false,
+		["autoHealHP"] = 25,
+		["lasthitKey"] = false,
+		["harassKey"] = false,
+		["laneclearKey"] = false,
+		["autoHeal"] = true,
+	},
+	["Draven Me Crazy1.000_Combo"] = {
+		["_param"] = {
+		},
+		["useR2"] = 3,
+		["useW"] = 2,
+		["_tsInstances"] = {
+		},
+		["useE"] = true,
+		["useR1"] = true,
+		["useItems"] = true,
+		["useQ"] = 3,
+	},
+	["Draven_TSet"] = {
+	},
+	["Evadeee_spells_Stranglethorns"] = {
+	},
+	["Evadeee_spells_CaitlynTrapInitial"] = {
+	},
+	["TotallyLeBlanc.cfg"] = {
+	},
+	["EkkoLOL3_ultoff"] = {
+	},
+	["Evadeee_spells_BoulderToss"] = {
+	},
+	["Evadeee_spells_GragasBodySlam"] = {
+	},
+	["EkkoLOL3_ultdef_zedult"] = {
+	},
+	["TotallyLeBlanc.cfg_drawings"] = {
+	},
+	["JinxLOL_Orbwalking_Farm"] = {
+	},
+	["Evadeee_spells_LuxLightStrikeKugel"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 1,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["whereDidHeGo"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["lineColor"] = {
+			[1] = 255,
+			[2] = 255,
+			[3] = 255,
+			[4] = 0,
+		},
+		["wallPrediction"] = true,
+		["displayTime"] = 3,
+		["circleColor"] = {
+			[1] = 255,
+			[2] = 255,
+			[3] = 25,
+			[4] = 0,
+		},
+		["displayTimeVisible"] = 1,
+		["circleSize"] = 100,
+		["lineWidth"] = 3,
+	},
+	["Evadeee_spells_BarrelRollMissile"] = {
+	},
+	["Aimbot1Nidalee_misc"] = {
+		["_param"] = {
+		},
+		["ser"] = 2,
+		["pred"] = 1,
+		["_tsInstances"] = {
+		},
+		["pc"] = true,
+	},
+	["sidasacmain_sidasacskills_RWhirlingDeath"] = {
+	},
+	["Evadeee_spells_QuinnQ"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 1,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["DJ Lee SeaniCreative27052015_Insec"] = {
+	},
+	["BallsOfFury_Draw_drawKillRange"] = {
+	},
+	["DJ Lee SeaniCreative27052015_Draw"] = {
+	},
+	["Rengar_LaneClear"] = {
+		["empQ"] = true,
+		["empW"] = true,
+		["_tsInstances"] = {
+		},
+		["_param"] = {
+		},
+		["empE"] = true,
+	},
+	["Evadeee_spells_Slash"] = {
+	},
+	["Rengar_Combo"] = {
+		["_param"] = {
+			[8] = {
+				["key"] = 84,
+			},
+		},
+		["empW"] = true,
+		["empE"] = true,
+		["comboType"] = 1,
+		["empQ"] = true,
+		["comboSwitch"] = false,
+		["comboDraw"] = true,
+		["_tsInstances"] = {
+		},
+		["comboDelay"] = 1000,
+	},
+	["Lux_Orbwalking_Farm"] = {
+	},
+	["Lux"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+			[1] = {
+				["mode"] = 8,
+			},
+		},
+		["orb"] = 2,
+	},
+	["BIG FAT HEV - MARK IV_IT"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["EEE089FD4E6895B912150AA2931D713F"] = true,
+		["918B72A3BDE56C6D04BFC0CD2FAFF273"] = true,
+		["ITsp"] = true,
+		["ITdm"] = true,
+		["D1980C5FE320A0552E104FF5A3BA1247"] = true,
+		["ITsr"] = 3000,
+		["ITon"] = true,
+		["7E7C83A25E98703137DA8155D0E1DD1E"] = true,
+		["CEC94266E0A3338F0403ABB0536BE696"] = true,
+		["ITsw"] = true,
+		["Iaa"] = true,
+		["Ist"] = 25,
+		["ITea"] = true,
+	},
+	["OrbwalkManager20052015Heimerdinger_Orbwalker_General"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["StopMove"] = false,
+		["Selected"] = true,
+		["StopMoveSlider"] = 100,
+		["Enabled"] = true,
+		["Debug"] = false,
+		["OrbMode"] = 1,
+	},
+	["TKLux_Drawing"] = {
+	},
+	["Aimbot1Syndra_skConfig"] = {
+	},
+	["TotallyLeBlanc.cfg_keysettings"] = {
+	},
+	["Evadeee_spells_StaticField"] = {
+	},
+	["Aimbot2Jinx_skConfig"] = {
+	},
+	["DJ Lee SeaniCreative1.10_Draw_Q"] = {
+	},
+	["Activator_ShowGame_ShowItems"] = {
+		["ADMode"] = true,
+		["APMode"] = true,
+		["adItems"] = true,
+		["_tsInstances"] = {
+		},
+		["_param"] = {
+		},
+		["apItems"] = true,
+	},
+	["JinxLOL_Orbwalking"] = {
+	},
+	["TKLux_oConfig"] = {
+	},
+	["Evadeee_spells_FlameBreathDragon"] = {
+	},
+	["Evadeee_spells_LucianQ"] = {
+	},
+	["Activator_ShowGame"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["Version"] = false,
+	},
+	["katarina_fun_house_r2_Combat_autokill"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["autoksHumanizeE"] = true,
+		["autokillW"] = true,
+		["autokill"] = true,
+		["autoksUnderTowers"] = true,
+		["autokillQ"] = true,
+		["autokillE"] = true,
+		["autokillIgnite"] = true,
+		["autoksWard"] = true,
+	},
+	["TKLux_oConfig_General"] = {
+	},
+	["Lux_comboConfig_eConfig"] = {
+	},
+	["Evadeee_spells_GalioIdolOfDurandInit"] = {
+	},
+	["BallsOfFury_combatKeys"] = {
+	},
+	["Evadeee_spells_DravenR"] = {
+	},
+	["Evadeee_spells_RocketJump"] = {
+	},
+	["BallsOfFury_Draw_drawPrediction"] = {
+	},
+	["Draven_ISet_Youmuu"] = {
+	},
+	["Jinx_ISet_Youmuu"] = {
+	},
+	["Evadeee_spells_EtherealChainsR"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 2,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["Jinx_CSet_QSet"] = {
+	},
+	["Evadeee_dodgeAbilities_blockersW - Wind Wall"] = {
+	},
+	["DJ Lee SeaniCreative1.10_Orbwalking_Farm"] = {
+	},
+	["katarina_fun_house_r2_Misc_autozhonyas"] = {
+	},
+	["NLHReloaded_vision"] = {
+	},
+	["SxOrb_Mastery"] = {
+		["_param"] = {
+		},
+		["DevastatingStrikes"] = 0,
+		["Butcher"] = true,
+		["_tsInstances"] = {
+		},
+		["ArcaneBlade"] = true,
+		["Havoc"] = true,
+	},
+	["Evadeee_spells_SaplingToss"] = {
+	},
+	["Aimbot1Lux"] = {
+		["off"] = false,
+		["_tsInstances"] = {
+		},
+		["tog"] = true,
+		["_param"] = {
+			[2] = {
+				["key"] = 84,
+			},
+			[3] = {
+				["key"] = 32,
+			},
+		},
+		["isstream"] = true,
+	},
+	["Private: Big Fat Jinx_MD"] = {
+	},
+	["BIG FAT HEV - MARK IV_BU"] = {
+	},
+	["EkkoLOL3_ultdef"] = {
+	},
+	["Evadeee_spells_ShockingOrb"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 3,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["Evadeee_spells_RocketGrab"] = {
+	},
+	["EkkoLOL3_sett_autolevel"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["order"] = 2,
+		["enable"] = false,
+		["f3"] = 2,
+	},
+	["Activator_DItems_AllyCleanseConfig"] = {
+	},
+	["Draven Me Crazy1.000_TS"] = {
+	},
+	["Master"] = {
+		["x"] = 33,
+		["iCount"] = 1,
+		["I1"] = 7,
+		["py"] = 874,
+		["px"] = 875,
+		["name1"] = "VPrediction",
+		["osTime"] = 1433718019,
+		["PS1"] = 1,
+		["useTS"] = true,
+		["y"] = 287,
+		["P1"] = 17,
+	},
+	["Evadeee_advanced_collision"] = {
+	},
+	["Evadeee_spells_EnchantedArrow"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 5,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["Private: Big Fat Jinx"] = {
+	},
+	["JinxLOL_keys"] = {
+	},
+	["Zopper_orb"] = {
+	},
+	["NidaleeGod_Main_Combo"] = {
+	},
+	["BallsOfFury_OrbWalk"] = {
+	},
+	["JinxLOL_Orbwalking_Mastery"] = {
+	},
+	["Draven Me Crazy1.000_Draw_E"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["Color"] = {
+			[1] = 255,
+			[2] = 255,
+			[3] = 255,
+			[4] = 255,
+		},
+		["Width"] = 1,
+		["Quality"] = 30,
+		["Enable"] = false,
+	},
+	["Evadeee_spells_BraumQ"] = {
+	},
+	["Draven_JSet"] = {
+	},
+	["Evadeee_spells_CallOfTheVoid"] = {
+	},
+	["OrbwalkManager20052015Heimerdinger_Orbwalker_Draw"] = {
+	},
+	["DJ Lee SeaniCreative1.10"] = {
+	},
+	["Evadeee_spells_SteelTempest2"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 2,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["katarina_fun_house_r2_Combat_harass"] = {
+		["harassW"] = true,
+		["_tsInstances"] = {
+		},
+		["harassE"] = true,
+		["_param"] = {
+		},
+		["harassQ"] = true,
+	},
+	["BIG FAT HEV - MARK IV_WT"] = {
+	},
+	["TKEkko_ts"] = {
+	},
+	["EkkoLOL3_Spell_E"] = {
+	},
+	["Activator_SummonerSpells_Ignite"] = {
+	},
+	["DJ Lee SeaniCreative1.10_Misc"] = {
+	},
+	["Evadeee_spells_ArcaneSmash"] = {
+	},
+	["Menu"] = {
+		["menuKey"] = 16,
+		["pDraw"] = {
+			["x"] = 875,
+			["y"] = 874,
+		},
+		["draw"] = {
+			["x"] = 33,
+			["y"] = 287,
+		},
+	},
+	["BallsOfFury_skillSettings"] = {
+	},
+	["NidaleeGod_Main_OrbWalker_Mastery"] = {
+		["_param"] = {
+		},
+		["DevastatingStrikes"] = 0,
+		["Butcher"] = true,
+		["_tsInstances"] = {
+		},
+		["ArcaneBlade"] = true,
+		["Havoc"] = true,
+	},
+	["NidaleeGod_Main_AutoLevel_End"] = {
+	},
+	["OrbwalkManager20052015Draven_Orbwalker_Farm"] = {
+	},
+	["sidasacmain_sidasacmelee"] = {
+	},
+	["wap"] = {
+		["_param"] = {
+			[2] = {
+				["key"] = 84,
+			},
+		},
+		["autopoke"] = true,
+		["_tsInstances"] = {
+		},
+		["poke"] = false,
+	},
+	["DJ Lee SeaniCreative1.10_Harass"] = {
+	},
+	["Jinx_CSet_WSet"] = {
+	},
+	["JinxLOL_spells_e"] = {
+	},
+	["Draven Me Crazy1.000_Keys"] = {
+	},
+	["TotallyLeBlanc.cfg_yolo"] = {
+	},
+	["Lux_jf"] = {
+	},
+	["DJ Lee SeaniCreative1.10_KillSteal"] = {
+	},
+	["Heisendinger28042015_TS_RangeTS"] = {
+	},
+	["Evadeee_spells_DianaArc"] = {
+	},
+	["Aimbot2Lux_misc"] = {
+	},
+	["NidaleeGod_Main_JungleClear_Cougar"] = {
+	},
+	["Evadeee_spells_Charm"] = {
+	},
+	["Jinx_TSet"] = {
+	},
+	["DJ Lee SeaniCreative27052015_TS_Draw"] = {
+	},
+	["EkkoLOL3_ultdef_BlindMonkRKick"] = {
+	},
+	["Evadeee_spells_GalioRighteousGust"] = {
+	},
+	["TKEkko_farmConfig_lh"] = {
+	},
+	["Aimbot2Nidalee_skConfig"] = {
+	},
+	["Evadeee_spells_JayceShockBlast"] = {
+	},
+	["Draven Me Crazy1.000_TS_RangeTS"] = {
+	},
+	["TotallyLeBlanc.cfg_orbwalker"] = {
+	},
+	["Evadeee_spells_ThreshE"] = {
+	},
+	["Draven_DSet"] = {
+	},
+	["Aimbot1Jinx"] = {
+		["off"] = false,
+		["_tsInstances"] = {
+		},
+		["tog"] = true,
+		["_param"] = {
+			[2] = {
+				["key"] = 84,
+			},
+			[3] = {
+				["key"] = 32,
+			},
+		},
+		["isstream"] = true,
+	},
+	["Evadeee_spells_ArcticAssault"] = {
+	},
+	["EkkoLOL3_ultdef_TryndamereSlash"] = {
+		["TryndamereSlashhealth"] = 30,
+		["_tsInstances"] = {
+		},
+		["_param"] = {
+		},
+		["TryndamereSlash"] = true,
+	},
+	["Evadeee_dodgeAbilities_dashesW - Distortion [1/2]"] = {
+	},
+	["Evadeee_spells_PiltoverPeacemaker"] = {
+	},
+	["Evadeee_spells_XerathQ"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 2,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["OrbwalkManager20052015Draven_Orbwalker_General"] = {
+	},
+	["SpellManager19052015Heimerdinger_Q_Q"] = {
+	},
+	["SpellManager19052015Draven_R"] = {
+	},
+	["Evadeee_spells_Distortion"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 3,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["Draven_LSet"] = {
+	},
+	["Evadeee_dodgeAbilities_jumpsW - Distortion [2/2]"] = {
+	},
+	["DJ Lee SeaniCreative1.10_Draw"] = {
+	},
+	["Evadeee_spells_EtherealChains"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 2,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["SpellManager19052015LeeSin"] = {
+	},
+	["TKEkko_comboConfig"] = {
+	},
+	["Evadeee_spells_EyeOfDestruction"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 2,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["DJ Lee SeaniCreative1.10_Combo"] = {
+	},
+	["Aimbot1Heimerdinger"] = {
+		["off"] = false,
+		["_tsInstances"] = {
+		},
+		["tog"] = true,
+		["_param"] = {
+			[2] = {
+				["key"] = 84,
+			},
+			[3] = {
+				["key"] = 32,
+			},
+		},
+		["isstream"] = true,
+	},
+	["Draven_Misc"] = {
+	},
+	["katarina_fun_house_r2_General_Orbwalk"] = {
+	},
+	["NidaleeGod_Main_Harass"] = {
+	},
+	["Evadeee_spells_ZileanQ"] = {
+	},
+	["OrbwalkManager20052015Draven_Orbwalker_Mastery"] = {
+	},
+	["TKLux_farmConfig_lc"] = {
+	},
+	["Jinx_SxOrb_Keys_Toggle"] = {
+	},
+	["TotallyLeBlanc.cfg_laneclear"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["laneclearQ"] = true,
+		["laneclearR"] = true,
+		["laneclearWAmount"] = 5,
+		["laneclearWRAmount"] = 5,
+		["laneclearRAmount"] = 5,
+		["laneclearW"] = true,
+	},
+	["DJ Lee SeaniCreative27052015_KillSteal"] = {
+	},
+	["sidasacmain_sidasacsetup_sidasaclasthitsub"] = {
+		["_param"] = {
+		},
+		["Attacks"] = true,
+		["Toggle"] = true,
+		["Movement"] = true,
+		["_tsInstances"] = {
+		},
+		["AntiFarm"] = true,
+	},
+	["Lux_comboConfig_qConfig"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["USEQ2"] = true,
+		["USEQ"] = true,
+	},
+	["EkkoLOL3_drawing_dmg"] = {
+		["_param"] = {
+		},
+		["I"] = true,
+		["shadow"] = true,
+		["enable"] = true,
+		["letter"] = true,
+		["Q"] = true,
+		["_tsInstances"] = {
+		},
+		["E"] = true,
+		["kill"] = true,
+		["R"] = true,
+	},
+	["TotallyLeBlanc.cfg_prediction"] = {
+	},
+	["SpellManager19052015Heimerdinger_Q"] = {
+	},
+	["Heisendinger28042015_Misc"] = {
+	},
+	["Evadeee_spells_JinxR"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = false,
+		["dangerLevel"] = 5,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["sidasacmain_sidasacdrawing_sidasacother"] = {
+	},
+	["Aimbot2Jinx"] = {
+	},
+	["Activator_ShowGame_ShowDraw"] = {
+		["_param"] = {
+		},
+		["DrawSmiteTarget"] = true,
+		["DrawSmite"] = true,
+		["DrawSmiteDamage"] = true,
+		["_tsInstances"] = {
+		},
+	},
+	["Lux_comboConfig_wConfig"] = {
+		["USEW"] = true,
+		["_tsInstances"] = {
+		},
+		["_param"] = {
+		},
+	},
+	["TotallyLeBlanc.cfg_orbwalker_General"] = {
+	},
+	["JinxLOL_Orbwalking_Keys"] = {
+	},
+	["Evadeee_spells_Pulverize"] = {
+	},
+	["Draven_Misc_AG"] = {
+	},
+	["Evadeee_spells_ZedShuriken"] = {
+	},
+	["OrbwalkManager24052015LeeSin"] = {
+	},
+	["sidasacmain_sidasacsetup_sidasacautocarrysub"] = {
+		["_param"] = {
+		},
+		["Attacks"] = true,
+		["Toggle"] = true,
+		["Movement"] = true,
+		["_tsInstances"] = {
+		},
+	},
+	["TotallyLeBlanc.cfg_farm"] = {
+		["_param"] = {
+		},
+		["farmW"] = true,
+		["_tsInstances"] = {
+		},
+		["farmQ"] = true,
+		["farmAA"] = true,
+		["farmRange"] = true,
+	},
+	["Jinx_HSet_QSet"] = {
+	},
+	["Evadeee_spells_MysticShotNew"] = {
+	},
+	["Evadeee_spells_HextechMicroRockets"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 2,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["Aimbot1LeeSin_misc"] = {
+		["_param"] = {
+		},
+		["ser"] = 2,
+		["pred"] = 1,
+		["_tsInstances"] = {
+		},
+		["pc"] = true,
+	},
+	["OrbwalkManager20052015Draven"] = {
+	},
+	["Evadeee_spells_LuluQ"] = {
+	},
+	["HTTF Prediction"] = {
+	},
+	["DJ Lee SeaniCreative27052015_Draw_E"] = {
+	},
+	["Jinx_SxOrb_Draw"] = {
+	},
+	["Evadeee_spells_ZyraPassiveDeath"] = {
+	},
+	["sidasacmain_sidasacitems_sidasacmixedmodeitemssub"] = {
+	},
+	["Evadeee_dodgeAbilities_dashesR - Mimic: Distortion [1/2]"] = {
+	},
+	["Activator_autoPots"] = {
+		["_param"] = {
+		},
+		["minHealthPercent"] = 30,
+		["useManaPots"] = true,
+		["useHealthPots"] = false,
+		["minManaPercent"] = 71,
+		["useFlask"] = true,
+		["_tsInstances"] = {
+		},
+		["HealhLost"] = 40,
+		["minHealthFlaskPercent"] = 40,
+		["useBiscuit"] = true,
+		["useAutoPots"] = false,
+		["minManaFlaskPercent"] = 40,
+	},
+	["SxOrb_Keys_Toggle"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["Harass"] = true,
+		["LastHit"] = true,
+		["Fight"] = true,
+		["LaneClear"] = true,
+	},
+	["EkkoLOL3_ultdef_BusterShot"] = {
+	},
+	["Sbyr4z3nt"] = {
+	},
+	["Heisendinger28042015_Auto_useE"] = {
+		["_param"] = {
+		},
+		["TryndamereE"] = true,
+		["XinZhaoQ"] = true,
+		["Time"] = 3,
+		["GravesQ"] = true,
+		["XinZhaoE"] = true,
+		["TryndamereW"] = true,
+		["TryndamereQ"] = true,
+		["NidaleeW"] = true,
+		["_tsInstances"] = {
+		},
+		["GravesR"] = true,
+		["TryndamereR"] = true,
+		["BrandE"] = true,
+		["XinZhaoW"] = true,
+		["NidaleeR"] = true,
+		["BrandR"] = true,
+		["NidaleeE"] = true,
+		["GravesW"] = true,
+		["BrandW"] = true,
+		["BrandQ"] = true,
+		["XinZhaoR"] = true,
+		["NidaleeQ"] = true,
+		["GravesE"] = true,
+	},
+	["NLHReloaded_wards"] = {
+	},
+	["Evadeee_spells_BrandBlaze"] = {
+	},
+	["TKEkko_Drawing"] = {
+	},
+	["Evadeee_dodgeAbilities_ghost"] = {
+	},
+	["EkkoLOL3_Orbwalking_Keys"] = {
+	},
+	["baseUlt_TimerSet"] = {
+		["_param"] = {
+		},
+		["PrintAborted"] = true,
+		["PrintRecalled"] = true,
+		["Timer"] = true,
+		["colorBarDanger"] = {
+			[1] = 255,
+			[2] = 255,
+			[3] = 0,
+			[4] = 66,
+		},
+		["colorBar"] = {
+			[1] = 255,
+			[2] = 0,
+			[3] = 188,
+			[4] = 255,
+		},
+		["_tsInstances"] = {
+		},
+	},
+	["BIG FAT HEV - MARK IV_JT"] = {
+		["_param"] = {
+		},
+		["JTsnd"] = true,
+		["JTtEn"] = true,
+		["JTfovEn"] = true,
+		["_tsInstances"] = {
+		},
+		["JTgEn"] = true,
+	},
+	["TKLux_harrConfig"] = {
+	},
+	["katarina_fun_house_r2_Misc"] = {
+	},
+	["Evadeee_spells_EssenceFlux"] = {
+	},
+	["Draven Me Crazy1.000_Misc"] = {
+	},
+	["Draven_Misc_KS"] = {
+		["_param"] = {
+		},
+		["Ignite"] = true,
+		["_tsInstances"] = {
+		},
+		["Overkill"] = true,
+		["UltRange"] = 5000,
+		["Ult"] = true,
+	},
+	["Lux_farm"] = {
+	},
+	["Evadeee_spells_DarkBindingMissile"] = {
+	},
+	["Evadeee_spells_VenomCask"] = {
+	},
+	["TotallyLeBlanc.cfg_killsteal"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["killstealQ"] = true,
+		["killstealQR"] = true,
+		["killstealW"] = true,
+		["killstealR"] = true,
+		["killsteal"] = true,
+		["killStealExcecute"] = 1,
+		["killstealGap"] = true,
+	},
+	["TotallyLeBlanc.cfg_orbwalker_Mastery"] = {
+	},
+	["Draven Me Crazy1.000_Draw"] = {
+	},
+	["Draven Me Crazy1.000_LastHit"] = {
+	},
+	["EkkoLOL3_Orbwalking_Keys_Toggle"] = {
+	},
+	["SpellManager19052015Draven_R_R"] = {
+	},
+	["Draven Me Crazy1.000_Auto_useE"] = {
+	},
+	["NLHReloaded_fowrecall"] = {
+	},
+	["Heisendinger28042015_TS_DrawTS"] = {
+	},
+	["Zopper_dash"] = {
+	},
+	["Evadeee_spells_TrueshotBarrage"] = {
+	},
+	["NLHReloaded_jungle"] = {
+	},
+	["Jinx_ISet_Bilgewater"] = {
+	},
+	["Activator_DItems_cleanseConfig"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["poison"] = true,
+		["fears"] = true,
+		["slows"] = true,
+		["disarms"] = true,
+		["exhausts"] = true,
+		["ignite"] = true,
+		["taunts"] = true,
+		["stuns"] = true,
+		["charms"] = true,
+		["silences"] = true,
+		["suppresses"] = true,
+		["roots"] = true,
+		["blinds"] = true,
+	},
+	["Activator_DItems_cleanseAlly"] = {
+	},
+	["SpellManager19052015Draven_E"] = {
+	},
+	["sidasacmain_sidasacpets"] = {
+	},
+	["SxOrb_Farm"] = {
+	},
+	["Rengar_Harass"] = {
+	},
+	["katarina_fun_house_r2_Combat_combo"] = {
+		["_param"] = {
+		},
+		["humanizeKata"] = true,
+		["_tsInstances"] = {
+		},
+		["comboR"] = true,
+		["comboWay"] = 3,
+		["breakR"] = false,
+		["humanizeDelayKata"] = 180,
+		["comboItems"] = true,
+	},
+	["Aimbot1LeeSin"] = {
+		["off"] = false,
+		["_tsInstances"] = {
+		},
+		["tog"] = true,
+		["_param"] = {
+			[2] = {
+				["key"] = 84,
+			},
+			[3] = {
+				["key"] = 32,
+			},
+		},
+		["isstream"] = true,
+	},
+	["BIG FAT HEV - MARK IV_TR"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["TRon"] = true,
+		["TRsv"] = true,
+		["TRsa"] = true,
+		["TRoc"] = true,
+	},
+	["Evadeee_spells_ZiggsR"] = {
+	},
+	["NidaleeGod_Main_JungleClear_Human"] = {
+	},
+	["Zopper_items"] = {
+	},
+	["DJ Lee SeaniCreative1.10_Auto_AutoR"] = {
+	},
+	["DJ Lee SeaniCreative1.10_Insec"] = {
+		["DistanceBetween"] = 20,
+		["_tsInstances"] = {
+		},
+		["Position"] = 1,
+		["UseFlash"] = true,
+		["Priority"] = 1,
+		["_param"] = {
+		},
+	},
+	["TKEkko_KS"] = {
+	},
+	["SxOrb"] = {
+	},
+	["sidasacmain_sidasacdrawing_sidasacminionhealthsub"] = {
+	},
+	["Jinx_KeyBindings"] = {
+	},
+	["Evadeee_advanced_reset"] = {
+	},
+	["DJ Lee SeaniCreative1.10_Orbwalking_Draw"] = {
+	},
+	["Aimbot1Jinx_misc"] = {
+		["_param"] = {
+		},
+		["ser"] = 2,
+		["pred"] = 1,
+		["_tsInstances"] = {
+		},
+		["pc"] = true,
+	},
+	["Evadeee_spells_KiBurst"] = {
+	},
+	["NidaleeGod_Main_Combo_Human"] = {
+	},
+	["Jinx_KSet"] = {
+	},
+	["Evadeee_spells_JinxW"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 2,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["Aimbot1Jinx_skConfig"] = {
+	},
+	["Heisendinger28042015_Keys"] = {
+	},
+	["DJ Lee SeaniCreative1.10_Orbwalking"] = {
+	},
+	["BIG FAT HEV - MARK IV_RT"] = {
+	},
+	["Evadeee_chaseMode_special"] = {
+		["ignoreCircularSpells"] = true,
+		["useMoreDashes"] = true,
+		["evadeTowardsAnchorOnly"] = true,
+		["_tsInstances"] = {
+		},
+		["dodgeOnlyDangerous"] = true,
+		["_param"] = {
+		},
+	},
+	["BIG FAT HEV - MARK IV_BU_BF"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["BFJi"] = true,
+	},
+	["Zopper_spell_LuxLightBinding"] = {
+	},
+	["EkkoLOL3_ultdef_LeonaE"] = {
+		["LeonaEhealth"] = 25,
+		["_tsInstances"] = {
+		},
+		["LeonaE"] = true,
+		["_param"] = {
+		},
+	},
+	["Aimbot2Yasuo_misc"] = {
+	},
+	["Evadeee_spells_KalistaQ"] = {
+	},
+	["SpellManager19052015Heimerdinger_W"] = {
+	},
+	["EkkoLOL3_combo"] = {
+	},
+	["Zopper_clear"] = {
+	},
+	["NeoBaseUlt"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["lolversion"] = 1,
+	},
+	["Evadeee_spells_PreySeeker"] = {
+	},
+	["Lux_ksConfig"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["EKS"] = true,
+		["QKS"] = true,
+		["RKS"] = true,
+		["IKS"] = true,
+	},
+	["Activator"] = {
+	},
+	["Evadeee_spells_rivenizunablade"] = {
+	},
+	["NidaleeGod_Main_OrbWalker_Farm"] = {
+	},
+	["Jinx_SxOrb_General"] = {
+	},
+	["SxOrb_General"] = {
+	},
+	["Evadeee_spells_LuxMaliceCannon"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 5,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["TKEkko_farmConfig_lc"] = {
+	},
+	["TKLux_farmConfig_lh"] = {
+	},
+	["Activator_DItems_ZWSettings"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["ZWSpecial"] = true,
+		["useZhonyas"] = true,
+		["useWoogletsWitchcap"] = true,
+	},
+	["TotallyLeBlanc.cfg_misc_counterLogic"] = {
+	},
+	["DJ Lee SeaniCreative27052015_Auto_AutoR"] = {
+	},
+	["NidaleeGod_Main_Selector"] = {
+	},
+	["EkkoLOL3_ultdef_ChogathFeast"] = {
+	},
+	["sidasacmain_sidasacskills"] = {
+	},
+	["DJ Lee SeaniCreative27052015_JungleClear"] = {
+	},
+	["Aimbot1Lux_skConfig"] = {
+	},
+	["Evadeee_dodgeAbilities_blockersQ - H-28G Evolution Turret"] = {
+	},
+	["JinxLOL_Orbwalking_Keys_Toggle"] = {
+	},
+	["Draven_ISet_Bilgewater"] = {
+	},
+	["Lux_Orbwalking_Draw"] = {
+	},
+	["Draven_Misc_QSet"] = {
+		["_param"] = {
+		},
+		["QMode"] = 2,
+		["_tsInstances"] = {
+		},
+		["mouserange"] = 500,
+		["mouse2"] = 1,
+		["mouselag"] = false,
+		["evadeee"] = true,
+		["mousedraw"] = true,
+	},
+	["EkkoLOL3_escape"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["W"] = true,
+	},
+	["Evadeee_humanizer_movement"] = {
+	},
+	["katarina_fun_house_r2_Farming_lasthit"] = {
+	},
+	[" Nida Q Helper "] = {
+		["throwQh"] = true,
+		["_tsInstances"] = {
+			[1] = {
+				["mode"] = 5,
+			},
+		},
+		["throwQ"] = false,
+		["_param"] = {
+			[1] = {
+				["key"] = 84,
+			},
+			[2] = {
+				["key"] = 32,
+			},
+		},
+	},
+	["Rengar_LastHit"] = {
+	},
+	["NeosAntiAFK"] = {
+	},
+	["NeoBaseUlt_drawing"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["enable"] = true,
+	},
+	["TKLux_rConfig"] = {
+	},
+	["Aimbot2Yasuo_skConfig"] = {
+	},
+	["sidasacmain_sidasacconfig"] = {
+	},
+	["baseUlt"] = {
+		["_param"] = {
+			[1] = {
+				["key"] = 32,
+			},
+		},
+		["_tsInstances"] = {
+		},
+		["BaseUlt"] = true,
+	},
+	["Zopper_spell_LuxMaliceCannon"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["combo"] = true,
+		["harass"] = false,
+		["range"] = 3340,
+		["enemies"] = 2,
+	},
+	["Evadeee_spells_ThunderingShuriken"] = {
+	},
+	["NLHReloaded_towerrange"] = {
+	},
+	["Evadeee_spells_CaitlynEntrapment"] = {
+	},
+	["BIG FAT HEV - MARK IV_VS"] = {
+		["_param"] = {
+		},
+		["VSvol"] = 100,
+		["VSda"] = true,
+		["VSsh"] = true,
+		["VSsum"] = true,
+		["_tsInstances"] = {
+		},
+		["VSwe"] = true,
+	},
+	["EkkoLOL3_ultdef_XenZhaoParry"] = {
+		["_param"] = {
+		},
+		["XenZhaoParry"] = true,
+		["_tsInstances"] = {
+		},
+		["XenZhaoParryhealth"] = 25,
+	},
+	["Evadeee_spells_GNAR!"] = {
+	},
+	["DJ Lee SeaniCreative1.10_Orbwalking_Mastery"] = {
+	},
+	["Heisendinger28042015_TS"] = {
+	},
+	["katarina_fun_house_r2_General_movement"] = {
+	},
+	["Evadeee_chaseMode"] = {
+	},
+	["Evadeee_spells_Wallop"] = {
+	},
+	["OrbwalkManager20052015Draven_Orbwalker_Draven"] = {
+	},
+	["Aimbot1Lux_misc"] = {
+		["_param"] = {
+		},
+		["ser"] = 2,
+		["pred"] = 1,
+		["_tsInstances"] = {
+		},
+		["pc"] = true,
+	},
+	["NidaleeGod_Main_OrbWalker_Draw"] = {
+	},
+	["Activator_autoSpells_autoHealSpell"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["AutoAllyHeal2"] = false,
+		["AutoAllyHeal1"] = false,
+		["AutoAllyHeal4"] = false,
+		["maxhppercent"] = 80,
+		["manaHeal"] = 70,
+		["useAutoHealSpell"] = false,
+		["AutoAllyHeal3"] = false,
+		["useAutoHeals"] = false,
+		["AutoAllyHeal5"] = false,
+		["allyHealHealth"] = 19,
+	},
+	["Draven Me Crazy1.000_Axe"] = {
+		["_param"] = {
+			[1] = {
+				["key"] = 90,
+			},
+		},
+		["_tsInstances"] = {
+		},
+		["UseW"] = false,
+		["OrbwalkMode"] = 2,
+		["DrawRadius"] = true,
+		["AABetween"] = true,
+		["CatchMode"] = 1,
+		["DelayCatch"] = 100,
+		["Catch"] = true,
+		["Turret"] = true,
+	},
+	["VPrediction3"] = {
+	},
+	["Heisendinger28042015_Harass"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["useW"] = true,
+		["Mana"] = 30,
+		["useE"] = true,
+		["useQ"] = true,
+	},
+	["NidaleeGod_Main_Selector_STS"] = {
+	},
+	["TKLux_KS"] = {
+	},
+	["Evadeee_dodgeAbilities_itemlocket"] = {
+	},
+	["katarina_fun_house_r2_TSMode"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["MasterYi"] = 1,
+		["Vladimir"] = 1,
+		["Jinx"] = 1,
+		["Nocturne"] = 1,
+		["Shen"] = 1,
+		["mode"] = 4,
+		["focus"] = true,
+	},
+	["Activator_debugModeSetting_zhonyaDebug"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["xPosDebugMode"] = 1100,
+		["yPosDebugMode"] = 125,
+		["debugMode"] = false,
+		["fontSizeDebugMode"] = 18,
+	},
+	["Jinx_SxOrb_Mastery"] = {
+	},
+	["BallsOfFury"] = {
+	},
+	["Jinx_LSet"] = {
+	},
+	["katarina_fun_house_r2_Misc_autopotions"] = {
+	},
+	["Evadeee_spells_GalioIdolOfDurandDmg"] = {
+	},
+	["JinxLOL_sett_drawing"] = {
+		["_param"] = {
+		},
+		["eDraw"] = true,
+		["wDraw"] = true,
+		["aaDraw"] = true,
+		["mDraw"] = false,
+		["hitDraw"] = true,
+		["Target"] = true,
+		["alternate"] = true,
+		["rHelp"] = false,
+		["rDraw"] = true,
+		["_tsInstances"] = {
+		},
+	},
+	["NeoBaseUlt_general"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["Ahri"] = true,
+		["Fiora"] = true,
+		["Ashe"] = true,
+		["enabled"] = false,
+		["LeeSin"] = true,
+		["Warwick"] = true,
+	},
+	["DJ Lee SeaniCreative27052015_Harass"] = {
+	},
+	["Evadeee_spells_LuluQPix"] = {
+	},
+	["Evadeee_spells_JavelinToss"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 3,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["HTTF Prediction_Collision"] = {
+	},
+	["Evadeee_spells_VarusR"] = {
+	},
+	["EkkoLOL3_farm"] = {
+	},
+	["Activator_Items_ADItems"] = {
+	},
+	["EkkoLOL3_ultdef_XinZhaoE"] = {
+	},
+	["Evadeee_spells_FlameBreath"] = {
+	},
+	["Evadeee_performance"] = {
+	},
+	["Evadeee"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["version995"] = 1,
+	},
+	["Activator_Items_buttonMode"] = {
+		["_param"] = {
+			[2] = {
+				["key"] = 32,
+			},
+		},
+		["useButtonMode"] = true,
+		["buttonModeKey"] = false,
+		["_tsInstances"] = {
+		},
+	},
+	["EkkoLOL3_drawing_qHelp"] = {
+	},
+	["Jinx_JSet"] = {
+	},
+	["Activator_ShowGame_ShowAutoPots"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["useManaPots"] = true,
+		["useFlask"] = true,
+		["useAutoPots"] = true,
+		["useHealthPots"] = true,
+	},
+	["EkkoLOL3_ultdef_MalphiteR"] = {
+	},
+	["Evadeee_spells_DistortionR"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 4,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["EkkoLOL3_sett"] = {
+	},
+	["Activator_debugModeSetting_qssDebug"] = {
+		["fontSizeDebugModeQSS"] = 18,
+		["debugModeQSS"] = false,
+		["xPosDebugModeQSS"] = 1100,
+		["yPosDebugModeQSS"] = 325,
+		["_tsInstances"] = {
+		},
+		["_param"] = {
+		},
+	},
+	["TKLux_ts"] = {
+	},
+	["NidaleeGod_Main_Misc"] = {
+	},
+	["Evadeee_controls98"] = {
+	},
+	["Heisendinger28042015_Auto_useQ"] = {
+	},
+	["Evadeee_spells_BoomerangThrow"] = {
+	},
+	["Jinx_CSet_RSet"] = {
+	},
+	["Evadeee_spells_Tibber"] = {
+	},
+	["NidaleeGod_Main_OrbWalker_General"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["StopMove"] = false,
+		["Selected"] = true,
+		["StopMoveSlider"] = 100,
+		["Enabled"] = true,
+		["Debug"] = false,
+		["OrbMode"] = 1,
+	},
+	["Zopper_draw"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["LuxMaliceCannon"] = true,
+		["target"] = true,
+		["LuxLightStrikeKugel"] = false,
+		["LuxLightBindingcollision"] = true,
+		["LuxLightBinding"] = true,
+		["LuxPrismaticWave"] = false,
+	},
+	["BallsOfFury_Items_APItems"] = {
+	},
+	["TKLux_kConfig"] = {
+	},
+	["SpellManager19052015Heimerdinger_W_W"] = {
+	},
+	["Jinx_ISet_Botrk"] = {
+	},
+	["Evadeee_spells_GravesClusterShot"] = {
+	},
+	["NidaleeGod_Main_Misc_TickManager"] = {
+	},
+	["Evadeee_spells_Nevermove"] = {
+	},
+	["EkkoLOL3_ultdef_AlZaharNetherGrasp"] = {
+	},
+	["Activator_debugModeSetting_mikaelDebug"] = {
+		["debugModeMikael"] = false,
+		["_tsInstances"] = {
+		},
+		["yPosDebugModeMikael"] = 475,
+		["xPosDebugModeMikael"] = 1100,
+		["_param"] = {
+		},
+		["fontSizeDebugModeMikael"] = 18,
+	},
+	["Evadeee_spells_SyndraEQLv5"] = {
+	},
+	["Lux_Orbwalking_Keys_Toggle"] = {
+	},
+	["Aimbot1Nidalee"] = {
+		["off"] = false,
+		["_tsInstances"] = {
+		},
+		["tog"] = true,
+		["_param"] = {
+			[2] = {
+				["key"] = 84,
+			},
+			[3] = {
+				["key"] = 32,
+			},
+		},
+		["isstream"] = true,
+	},
+	["Heisendinger28042015_LaneClear"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["useW"] = true,
+		["Mana"] = 30,
+		["useE"] = true,
+		["useQ"] = 3,
+	},
+	["NidaleeGod_Main_Drawing_Human"] = {
+	},
+	["Activator_Items_MinionBuff"] = {
+	},
+	["Evadeee_spells_CH-2ElectronStormGrenade"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 3,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["Evadeee_spells_OrbOfDeception"] = {
+	},
+	[" Nida Q Helper _misc"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["pro"] = 1,
+		["mana"] = 30,
+		["pc"] = true,
+		["hc"] = 2,
+	},
+	["EkkoLOL3_ultdef_NunuIceBall"] = {
+	},
+	["Evadeee_spells_BoomerangThrowReturn"] = {
+	},
+	["TKLux_misc"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["pred"] = 1,
+		["pc"] = true,
+	},
+	["sidasacmain_sidasacskills_WZap"] = {
+		["_param"] = {
+		},
+		["LaneClearFarmStyle"] = 1,
+		["towerFarm"] = false,
+		["MixedModeMana"] = 0,
+		["LaneClear"] = false,
+		["LaneClearMana"] = 0,
+		["_tsInstances"] = {
+		},
+		["Killsteal"] = false,
+		["Jungle"] = false,
+		["AutoCarry"] = false,
+		["MixedMode"] = false,
+		["AutoCarryMana"] = 0,
+	},
+	["EkkoLOL3_Orbwalking_Mastery"] = {
+	},
+	["DJ Lee SeaniCreative1.10_Orbwalking_Keys"] = {
+	},
+	["Evadeee_spells_DeadlyBloom"] = {
+	},
+	["BallsOfFury_Draw_drawFocusedTarget"] = {
+	},
+	["katarina_fun_house_r2"] = {
+	},
+	["Draven Me Crazy1.000_TS_DrawTS"] = {
+	},
+	["Evadeee_spells_HecarimUlt"] = {
+	},
+	["DJ Lee SeaniCreative27052015_Keys"] = {
+	},
+	["EkkoLOL3_ultdef_XenZhaoSweep"] = {
+	},
+	["Draven Me Crazy1.000_Draw_R"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["Color"] = {
+			[1] = 255,
+			[2] = 255,
+			[3] = 255,
+			[4] = 255,
+		},
+		["Width"] = 1,
+		["Quality"] = 30,
+		["Enable"] = false,
+	},
+	["Evadeee_buffs_Katarina R"] = {
+	},
+	["Lux_Orbwalking_General"] = {
+	},
+	["EkkoLOL3_ultdef_GarenR"] = {
+	},
+	["NLHReloaded_chat"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["summoner"] = true,
+		["format"] = 2,
+		["language"] = 1,
+	},
+	["NidaleeGod_Main_JungleClear"] = {
+	},
+	["Lux_prConfig"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["pro"] = 1,
+		["AZMR"] = 900,
+		["AZHP"] = 20,
+		["HPH"] = 0.8,
+		["AZ"] = true,
+		["AL"] = 1,
+		["ALS"] = true,
+		["pc"] = true,
+	},
+	["Evadeee_spells_LucianW"] = {
+	},
+	["TKLux_oConfig_Draw"] = {
+	},
+	["katarina_fun_house_r2_Misc_autolevels"] = {
+		["_param"] = {
+		},
+		["levelOrder"] = 2,
+		["_tsInstances"] = {
+		},
+		["useAutoLevel"] = true,
+	},
+	["Evadeee_spells_ShadowDash"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 3,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["EkkoLOL3_Orbwalking"] = {
+	},
+	["Lux_exConfig"] = {
+		["AEX"] = 4,
+		["_tsInstances"] = {
+		},
+		["ARX"] = 4,
+		["UAS"] = true,
+		["UASA"] = true,
+		["ASMP"] = 50,
+		["AEF"] = true,
+		["ASHP"] = 40,
+		["ARF"] = true,
+		["_param"] = {
+		},
+	},
+	["Jinx"] = {
+	},
+	["sidasacmain_sidasacadvanced"] = {
+	},
+	["Evadeee_dodgeAbilities_jumpsE - Shunpo"] = {
+	},
+	["Lux_Orbwalking_Mastery"] = {
+	},
+	["DJ Lee SeaniCreative1.10_JungleClear"] = {
+	},
+	["TKLux_oConfig_Mastery"] = {
+	},
+	["Evadeee_dodgeAbilities_itemzhonya"] = {
+	},
+	["JinxLOL_Orbwalking_Draw"] = {
+	},
+	["Evadeee_spells_GlacialPrison"] = {
+	},
+	["TKLux_oConfig_Farm"] = {
+	},
+	["TotallyLeBlanc.cfg_harass"] = {
+		["harassW"] = true,
+		["_tsInstances"] = {
+		},
+		["_param"] = {
+		},
+		["harassMana"] = 0.25,
+		["harassE"] = true,
+		["harassQ"] = true,
+	},
+	["DJ Lee SeaniCreative1.10_Orbwalking_General"] = {
+	},
+	["Evadeee_humanizer_dodgeAbilities"] = {
+	},
+	["Evadeee_dodgeAbilities_jumpsE - Sweeping Blade"] = {
+	},
+	["Draven_ISet_Botrk"] = {
+	},
+	["SpellManager19052015Heimerdinger_E"] = {
+	},
+	["DJ Lee SeaniCreative27052015_TS_Range"] = {
+	},
+	["Evadeee_chaseMode_anchor"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["amountOfEnemiesToEvadeFrom"] = 5,
+		["forceSafeEvade981"] = true,
+		["maxRange"] = 150,
+		["anchorType995"] = 1,
+		["nearbyRange"] = 1000,
+	},
+	["Aimbot2Lux_skConfig"] = {
+	},
+	["Evadeee_dodgeAbilities_dashesW - Pounce [Cougar]"] = {
+	},
+	["NLHReloaded_turrets"] = {
+	},
+	["Evadeee_spells_SyndraEQ"] = {
+	},
+	["Evadeee_humanizer_anchor"] = {
+		["_param"] = {
+		},
+		["forceSafeEvadeInPanicMode"] = true,
+		["_tsInstances"] = {
+		},
+		["amountOfEnemiesToEvadeFrom"] = 2,
+		["forceSafeEvade981"] = true,
+		["maxRange"] = 150,
+		["anchorType995"] = 1,
+		["nearbyRange"] = 1000,
+	},
+	["Evadeee_spells_LightBinding"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 3,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["DJ Lee SeaniCreative1.10_Auto"] = {
+	},
+	["VPrediction"] = {
+	},
+	["sidasacstreaming"] = {
+		["_param"] = {
+		},
+		["MaxRand"] = 650,
+		["_tsInstances"] = {
+		},
+		["Colour"] = 1,
+		["MinRand"] = 150,
+		["ClearChat"] = true,
+		["Show"] = 2,
+	},
+	["Evadeee_dodgeAbilities_flash"] = {
+	},
+	["sidasacmain"] = {
+	},
+	["Lux_gpConfig"] = {
+	},
+	["BallsOfFury_Draw_drawSkillKillRanges"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["drawERangeColour"] = {
+			[1] = 87,
+			[2] = 183,
+			[3] = 60,
+			[4] = 244,
+		},
+		["drawRRange"] = true,
+		["drawRRangeColour"] = {
+			[1] = 87,
+			[2] = 183,
+			[3] = 60,
+			[4] = 244,
+		},
+		["LagFree"] = true,
+		["drawQRangeColour"] = {
+			[1] = 87,
+			[2] = 183,
+			[3] = 60,
+			[4] = 244,
+		},
+		["drawWRange"] = true,
+		["drawQERange"] = true,
+		["drawQERangeColour"] = {
+			[1] = 87,
+			[2] = 183,
+			[3] = 60,
+			[4] = 244,
+		},
+		["drawQRange"] = true,
+		["drawWRangeColour"] = {
+			[1] = 87,
+			[2] = 183,
+			[3] = 60,
+			[4] = 244,
+		},
+		["drawERange"] = true,
+	},
+	["Zopper"] = {
+	},
+	["Evadeee_spells_SteelTempest3"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 3,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["Evadeee_humanizer_evading"] = {
+	},
+	["NidaleeGod_Main_Killstealing"] = {
+	},
+	["Draven Me Crazy1.000_Harass"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["useW"] = false,
+		["Mana"] = 20,
+		["useE"] = false,
+		["useQ"] = 3,
+	},
+	["Evadeee_spells_TranscendentBlades"] = {
+	},
+	["BIG FAT HEV - MARK IV"] = {
+	},
+	["DJ Lee SeaniCreative1.10_Keys"] = {
+	},
+	["SxOrb_Keys"] = {
+	},
+	["Big Fat Orbwalker"] = {
+	},
+	["Evadeee_spells_JarvanIVDragonStrike"] = {
+	},
+	["Evadeee_visuals"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["drawSkillshots"] = true,
+		["stateeeSize"] = 20,
+		["spellLineColor"] = {
+			[1] = 255,
+			[2] = 255,
+			[3] = 255,
+			[4] = 255,
+		},
+		["stateeeOffset"] = 300,
+		["dangerLineWidth995"] = 3,
+		["showPriorityMenu993"] = true,
+		["spellLineWidth"] = 1,
+		["stateeePrint"] = true,
+		["dangerLineColor995"] = {
+			[1] = 255,
+			[2] = 255,
+			[3] = 255,
+			[4] = 255,
+		},
+		["prioOrderXOffset"] = 0,
+		["stateee"] = true,
+		["drawDangerArea995"] = true,
+	},
+	["Evadeee_spells_Overload"] = {
+	},
+	["TotallyLeBlanc.cfg_orbwalker_Farm"] = {
+	},
+	["Baseult"] = {
+	},
+	["Evadeee_spells_Rupture"] = {
+	},
+	["Evadeee_dodgeAbilities_msBuffsR - Highlander"] = {
+	},
+	["BallsOfFury_Draw_drawAwareness"] = {
+	},
+	["Evadeee_spells_MockingShout"] = {
+	},
+	["Evadeee_spells_GraspingRoots"] = {
+	},
+	["Draven_Misc_Interrupt"] = {
+	},
+	["Jinx_SxOrb_Keys"] = {
+	},
+	["Jinx_CSet_ESet"] = {
+	},
+	["Heisendinger28042015_Draw"] = {
+	},
+	["Evadeee_chaseMode_humanizer"] = {
+	},
+	["EkkoLOL3_ultdef_TristanaW"] = {
+	},
+	["Evadeee_spells_LeonaSolarFlare"] = {
+	},
+	["Activator_Draw"] = {
+	},
+	["NidaleeGod_Main_AutoLevel_Start"] = {
+	},
+	["EkkoLOL3_Orbwalking_Draw"] = {
+	},
+	["EkkoLOL3_ultdef_LeonaSolarFlare"] = {
+	},
+	["Evadeee_spells_CH-2ElectronStormGrenadeUlt"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 3,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["OrbwalkManager20052015Heimerdinger_Orbwalker_Farm"] = {
+	},
+	["Lux_Orbwalking_Keys"] = {
+	},
+	["TKLux_oConfig_Keys_Toggle"] = {
+	},
+	["EkkoLOL3_harass"] = {
+	},
+	["sidasacmain_sidasachotkeys"] = {
+	},
+	["Aimbot1Heimerdinger_skConfig"] = {
+	},
+	["Evadeee_spells_SyndraQ"] = {
+	},
+	["Evadeee_spells_SteelTempest1"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 2,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["DJ Lee SeaniCreative1.10_Draw_R"] = {
+	},
+	["TotallyLeBlanc.cfg_killsteal_enemies"] = {
+		["_param"] = {
+		},
+		["JarvanIV"] = true,
+		["_tsInstances"] = {
+		},
+	},
+	["SpellManager19052015Heimerdinger_E_E"] = {
+	},
+	["Draven_KeyBindings"] = {
+	},
+	["Evadeee_spells_GalioResoluteSmite"] = {
+	},
+	["NidaleeGod_Main_AutoHeal_Allies"] = {
+	},
+	["NidaleeGod_Main_Combo_Cougar"] = {
+	},
+	["Evadeee_spells_VoidOoze"] = {
+	},
+	["sidasacmain_sidasacts"] = {
+	},
+	["JinxLOL_harass"] = {
+	},
+	["Evadeee_dodgeAbilities_msBuffsW - Blood Rush"] = {
+	},
+	["Evadeee_spells_LucianR1"] = {
+	},
+	["Evadeee_advanced_evading"] = {
+	},
+	["Draven Me Crazy1.000_LaneClear"] = {
+	},
+	["OrbwalkManager20052015Draven_Orbwalker_Draw"] = {
+	},
+	["Aimbot2Lux"] = {
+		["off"] = false,
+		["_tsInstances"] = {
+		},
+		["tog"] = false,
+		["_param"] = {
+			[2] = {
+				["key"] = 84,
+			},
+			[3] = {
+				["key"] = 32,
+			},
+		},
+		["isstream"] = false,
+	},
+	["DJ Lee SeaniCreative27052015_Draw_R"] = {
+	},
+	["Zopper_as"] = {
+		["_param"] = {
+		},
+		["teammateshield7"] = true,
+		["teammateshield8"] = true,
+		["teammateshield6"] = true,
+		["shieldcc"] = true,
+		["teammateshield9"] = true,
+		["maxhppercent"] = 100,
+		["skillshots"] = true,
+		["teammateshield10"] = true,
+		["mindmgpercent"] = 49,
+		["shieldslow"] = true,
+		["_tsInstances"] = {
+		},
+	},
+	["EkkoLOL3_ultdef_PuncturingTaunt"] = {
+	},
+	["Heisendinger28042015_LastHit"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["useW"] = true,
+		["Mana"] = 30,
+		["useE"] = true,
+	},
+	["Evadeee_spells_BraumR"] = {
+	},
+	["Evadeee_dodgeAbilities_jumpsW - Safeguard [Jump]"] = {
+	},
+	["JinxLOL_sett"] = {
+		["debug"] = true,
+		["sel"] = true,
+		["Target"] = 3,
+		["_tsInstances"] = {
+		},
+		["_param"] = {
+		},
+		["pred"] = 1,
+		["autoBuy"] = true,
+	},
+	["NidaleeGod_Main_OrbWalker_Keys_Toggle"] = {
+	},
+	["TKEkko_oConfig"] = {
+	},
+	["Evadeee_spells_LivingArtillery"] = {
+	},
+	["Evadeee_spells_NocturneDuskbringer"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["permaEnabled"] = true,
+		["useSpellsInside"] = true,
+		["enabled"] = true,
+		["draw"] = true,
+		["dodgeFoW"] = true,
+		["extraWidth"] = 0,
+		["forceDashes"] = true,
+		["dangerLevel"] = 1,
+		["evadeIfHPIsLowerThan"] = 101,
+		["isDangerous"] = true,
+	},
+	["NLHReloaded_cooldown"] = {
+	},
+	["Activator_DItems_cleanseSelf"] = {
+	},
+	["sidasacmain_sidasacdrawing_sidasacenemyrangesub"] = {
+	},
+	["Evadeee_spells_SyndraW"] = {
+	},
+	["sidasacmain_sidasacskills_RSuperMegaDeathRocket"] = {
+	},
+	["VPrediction_Developers"] = {
+		["Debug"] = true,
+		["_tsInstances"] = {
+		},
+		["SC"] = true,
+		["_param"] = {
+		},
+	},
+	["DJ Lee SeaniCreative27052015_Draw_W"] = {
+	},
+	["Evadeee_spells_GragasExplosiveCask"] = {
+	},
+	["Lux_exConfig_uso"] = {
+	},
+	["NLHReloaded_discrec"] = {
+	},
+	["Heisendinger28042015_JungleClear"] = {
+	},
+	["EkkoLOL3_keys"] = {
+		["_param"] = {
+			[1] = {
+				["key"] = 32,
+			},
+			[2] = {
+				["key"] = 88,
+			},
+			[4] = {
+				["key"] = 86,
+			},
+			[6] = {
+				["key"] = 84,
+			},
+			[5] = {
+				["key"] = 71,
+			},
+			[3] = {
+				["key"] = 67,
+			},
+		},
+		["_tsInstances"] = {
+		},
+		["comboKey"] = false,
+		["laneKey"] = false,
+		["jungleKS"] = false,
+		["harassKey"] = false,
+		["lastKey"] = false,
+		["escapeKey"] = false,
+	},
+	["Evadeee_dodgeAbilities_itemshurelya"] = {
+	},
+	["Evadeee_spells_DarkMatter"] = {
+	},
+	["Big Fat Orbwalker_OrbST"] = {
+		["OrbExtraWn"] = 10,
+		["OrbUseH"] = true,
+		["_param"] = {
+		},
+		["OrbSup"] = true,
+		["OrbRange"] = true,
+		["OrbEnabled"] = true,
+		["_tsInstances"] = {
+		},
+	},
+	["DJ Lee SeaniCreative27052015_Auto"] = {
+	},
+	["Lux_gpConfig_ES2"] = {
+	},
+	["Evadeee_spells_DragonsDescent"] = {
+	},
+	["OrbwalkManager20052015Heimerdinger_Orbwalker"] = {
+	},
+	["Aimbot2Nidalee_misc"] = {
+		["_param"] = {
+		},
+		["ser"] = 2,
+		["pred"] = 1,
+		["_tsInstances"] = {
+		},
+		["pc"] = true,
+	},
+	["NidaleeGod_Main"] = {
+	},
+	["Activator_SummonerSpells_Smite"] = {
+	},
+}

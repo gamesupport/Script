@@ -1,0 +1,51 @@
+return {
+	["WindUpAmount"] = {
+		["Jinx"] = 0,
+		["Draven"] = 0,
+	},
+	["DevastatingStrikes"] = {
+		["Jinx"] = 0,
+		["Draven"] = 0,
+	},
+	["EnemyHitBoxes"] = {
+		["Data"] = {
+			["Annie"] = 134.78118162023,
+			["Zyra"] = 202.20768019658,
+			["Draven"] = 217.78886702627,
+			["Malphite"] = 263.92484394201,
+			["Kayle"] = 282.42977316295,
+			["Rammus"] = 212.13203435596,
+		},
+		["TimeSaved"] = 56.1120262146,
+	},
+	["ArcaneBlade"] = {
+		["Jinx"] = false,
+		["Draven"] = false,
+	},
+	["Butcher"] = {
+		["Jinx"] = false,
+		["Draven"] = false,
+	},
+	["Havoc"] = {
+		["Jinx"] = false,
+		["Draven"] = false,
+	},
+	["FarmOffsetType"] = {
+		["Jinx"] = 1,
+		["Draven"] = 1,
+	},
+	["WindUpType"] = {
+		["Jinx"] = 1,
+		["Draven"] = 1,
+	},
+	["TargetSelectorMode"] = 8,
+	["DoubleEdgedSword"] = {
+		["Jinx"] = false,
+		["Draven"] = false,
+	},
+	["FarmOffsetAmount"] = {
+		["Jinx"] = 0,
+		["Draven"] = 0,
+	},
+	["StreamingMode"] = false,
+}

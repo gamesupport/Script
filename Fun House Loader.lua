@@ -1,0 +1,1 @@
+function OnLoad() print('Error Updating Script, please redownload it manually from website. Thanks. If you use Sandboxie, clear the cache (delete contents)') end
